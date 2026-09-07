@@ -1,0 +1,6 @@
+MetaTrader5
+pandas
+mplfinance
+python-dotenv
+openai
+matplotlib
